@@ -1,15 +1,3 @@
---  REVISION SQL L1 -> L2 DSBD : CORRIGE (parties 0 a F)
---  Base fil rouge : Teranga Shop (MySQL / MariaDB ; PostgreSQL signale)
---
---  NOTE : je n'avais pas le script teranga_shop.sql. Les requetes sont
---  ecrites d'apres le schema de l'enonce. Verifiez les resultats chiffres
---  sur votre machine.
---
---  Conseil : executez teranga_shop.sql d'abord. Les parties A et B
---  MODIFIENT la base : relancez teranga_shop.sql apres la partie B.
---  Les instructions volontairement refusees (A4, B4b) sont commentees
---  pour que le fichier puisse s'executer de bout en bout.
-
 
 -- PARTIE 0 - ECHAUFFEMENT : LES MOTS DU METIER
 
